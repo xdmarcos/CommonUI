@@ -8,5 +8,5 @@
 import Foundation
 
 struct Identifiers {
-  static let navBarBackButtonImage = "arrowLeft"
+	static let navBarBackButtonImage = "arrowLeft"
 }
